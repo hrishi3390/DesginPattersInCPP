@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "651BF4E121C357E900E29688"
-               BuildableName = "Design Patterns"
-               BlueprintName = "Design Patterns"
+               BlueprintIdentifier = "65BA953721DB34F200EE9A6E"
+               BuildableName = "decorator"
+               BlueprintName = "decorator"
                ReferencedContainer = "container:Design Patterns.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -32,9 +32,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "651BF4E121C357E900E29688"
-            BuildableName = "Design Patterns"
-            BlueprintName = "Design Patterns"
+            BlueprintIdentifier = "65BA953721DB34F200EE9A6E"
+            BuildableName = "decorator"
+            BlueprintName = "decorator"
             ReferencedContainer = "container:Design Patterns.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -55,9 +55,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "651BF4E121C357E900E29688"
-            BuildableName = "Design Patterns"
-            BlueprintName = "Design Patterns"
+            BlueprintIdentifier = "65BA953721DB34F200EE9A6E"
+            BuildableName = "decorator"
+            BlueprintName = "decorator"
             ReferencedContainer = "container:Design Patterns.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -74,9 +74,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "651BF4E121C357E900E29688"
-            BuildableName = "Design Patterns"
-            BlueprintName = "Design Patterns"
+            BlueprintIdentifier = "65BA953721DB34F200EE9A6E"
+            BuildableName = "decorator"
+            BlueprintName = "decorator"
             ReferencedContainer = "container:Design Patterns.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
